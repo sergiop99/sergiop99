@@ -1,76 +1,50 @@
-# React Cards Example
+# 🌏 Sergio Pereyra | Senior Full-Stack Engineer & Upwork Expert Partner
 
-![](./screenshot.png)
+**Building revenue-focused web applications with co-founder-level strategy.**
 
-## Available Scripts
+I don’t just write code; I solve business problems through engineering. With over **$400K+ earned on Upwork** and a **98% Job Success Score**, I help founders scale from MVP to high-traffic platforms handling **50K+ concurrent users**.
 
-In the project directory, you can run:
+---
 
-### `yarn start`
+## 🛠️ Tech Stack & Expertise
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+* **Frontend:** React, Next.js (SSG/SSR), TypeScript, Tailwind CSS.
+* **Backend:** Node.js, Python (Django/FastAPI), Scalable APIs.
+* **CMS & SEO:** WordPress Mastery (Custom Themes/Plugins), WooCommerce, Core Web Vitals Optimization.
+* **Cloud & DevOps:** AWS, zero-downtime deployments, bulletproof security.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+---
 
-### `yarn test`
+## 📈 Proven Business Impact
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* **SaaS Growth:** Launched products generating **$250K in revenue** within 60 days post-launch.
+* **Performance:** Transformed underperforming sites into **90+ PageSpeed** machines.
+* **Scale:** Architected platforms for **50K+ concurrent users** without major incidents.
 
-### `yarn build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🤝 Why Partner With Me?
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+> "NOT outsourced. NOT template-driven. NOT AI-generated code."
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+I lead projects personally (EST timezone alignment) and scale with my vetted team of **6 senior engineers** only when necessary. You get direct access to me—no middlemen, no endless status updates.
 
-### `yarn eject`
+* **Co-founder Mindset:** Every line of code is filtered through: *"Does this help you win?"*
+* **Transparency:** Clear communication and end-to-end ownership.
+* **Hybrid Power:** I bridge the gap between high-level Business Administration (BBA) and Industrial Engineering.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+---
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 📅 Availability & Consultation
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Currently accepting **1-2 select projects for Q1 2026**.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+* **Need a Strategy Call?** [Book a 30-min Zoom Meeting]
+* **Free Audit:** I offer free performance/SEO audits for qualified projects.
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 📫 Connect with me
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-### Resources
-
-- [Gradient.io](https://cssgradient.io/)
-- [Flat Color Palette - Drible.com/Ebtihaj](https://dribbble.com/shots/4133181-Flat-Color-Palette)
-- [Oxygen Font](https://fonts.google.com/specimen/Oxygen?preview.text_type=custom&sidebar.open=true&selection.family=Oxygen:wght@300)
+* **Upwork:** [Official Partner Profile]
+* **Portfolio:** [View Featured Projects]
