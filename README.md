@@ -46,5 +46,5 @@ Currently accepting **1-2 select projects for Q1 2026**.
 
 ## 📫 Connect with me
 
-* **Upwork:** [Official Partner Profile]
-* **Portfolio:** [View Featured Projects]
+* **Upwork:** https://www.upwork.com/freelancers/~01c3d3c26484fa3d2a?referrer_url_path=%2Fnx%2Fsearch%2Ftalent%2Fdetails%2F~01c3d3c26484fa3d2a%2Fprofile
+* **Portfolio:** https://sergio-portfolio-beta.vercel.app/
