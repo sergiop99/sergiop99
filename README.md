@@ -31,7 +31,7 @@ I lead projects personally (EST timezone alignment) and scale with my vetted tea
 
 * **Co-founder Mindset:** Every line of code is filtered through: *"Does this help you win?"*
 * **Transparency:** Clear communication and end-to-end ownership.
-* **Hybrid Power:** I bridge the gap between high-level Business Administration (BBA) and Industrial Engineering.
+* **Hybrid Power:** I bridge the gap between high-level Business Administration (BBA), Computer Science and Industrial Engineering.
 
 ---
 
